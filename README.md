@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aCakeShip
 - 👀 I’m interested in the Universe
 - 🌱 I’m currently learning 3D-Web Development
-- 💞️ I’m looking to collaborate on Amazon, but better. 
-- 📫 How to reach me apekshik@gmail.com
+- 📫 How to reach me apekshik@gmail.com, discord, slack, IG, Linkedin, Facebook.
 
 <!---
 aCakeShip/aCakeShip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
